@@ -1,0 +1,1 @@
+export const dummyProfileImage = "https://cyber.comolho.com/researcher/profile/dummy/9a0652dbba256c62/avatar/"
